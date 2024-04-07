@@ -1,7 +1,8 @@
 ### This Repo is used for demonstrating my skill in:
-* Data collecting (data scrapping: BeautifulSoup, request)
-* Data cleaning (pandas, sklearn pipeline)
+* Data collecting (data scrapping: BeautifulSoup, requests)
+* Data cleaning (pandas, sklearn)
 * Data visualization (Power BI)
+* Machine Learning (XGBoostRegressor)
 
 <br>
 Power BI Dashboard:
