@@ -3,6 +3,7 @@
 * Data cleaning (pandas, sklearn)
 * Data visualization (Power BI)
 * Machine Learning (XGBoostRegressor)
+* Sentiment Analysis
 
 <br>
 Power BI Dashboard:
